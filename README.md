@@ -16,14 +16,13 @@ A **Streamlit web application** for detecting hieroglyphs in images using the **
 
 ## Demo
 
-Before
-![photo-1729336225054-735b13ab51d4](https://github.com/user-attachments/assets/7b2ca280-076d-4345-a68d-46929d596b78)
+Before 
+![photo-1729336225054-735b13ab51d4](https://github.com/user-attachments/assets/6aaff021-0c0a-4384-b5d8-7e0595a67ab1)
 
 After
 
-<img width="3000" height="2250" alt="detection_result" src="https://github.com/user-attachments/assets/c5f2650d-4a36-4dd5-a2d3-ccc59abeb21c" />
+<img width="3000" height="2250" alt="detection_result" src="https://github.com/user-attachments/assets/9aa56222-604e-4b9b-aa01-d161114b41b5" />
 
----
 
 ## Installation
 
@@ -82,4 +81,5 @@ object-detection-app/
 ## Live Demo
 
 https://egyptian-hieroglyphs-detection-thesis.streamlit.app/
+
 
